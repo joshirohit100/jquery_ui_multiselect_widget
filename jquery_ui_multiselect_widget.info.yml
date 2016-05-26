@@ -1,5 +1,5 @@
 type: module
 name: 'jQuery UI MultiSelect Widget'
-description: 'Adds Eric Hynds jQuery UI MultiSelect Widget to select fields (optional multiselect only) in Drupal.'
+description: 'Adds Eric Hynds jQuery UI MultiSelect Widget to select fields (multiselect only) in Drupal.'
 package: 'User interface'
 core: 8.x
