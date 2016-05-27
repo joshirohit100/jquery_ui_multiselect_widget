@@ -1,0 +1,14 @@
+jquery_ui_multiselect_widget.js:
+  version: VERSION
+  js:
+    assets/js/jquery_ui_multiselect_widget.js: {}
+    assets/vendor/jquery.multiselect.min.js: {}
+    assets/vendor/jquery_ui_multiselect.filter.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+jquery_ui_multiselect_widget.css:
+  version: VERSION
+  css:
+    theme:
+      assets/css/jquery.multiselect.css: {}
